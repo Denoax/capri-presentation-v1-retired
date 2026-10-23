@@ -1,0 +1,101 @@
+{
+  "embedded_gif_bytes": 279196,
+  "assets": [
+    {
+      "path": "capri-divider-loop.gif",
+      "bytes": 2160,
+      "sha256": "c526c5e0cd9d195ea26a6a8c24e10ed80d10b53dc43f685b67af32fddc237c5e",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 990,
+      "height": 24,
+      "frames": 10,
+      "duration_ms": 3000,
+      "loop": 0,
+      "seamless_first_last": true,
+      "first_frame_poster_mean_rgb_difference": 0.0
+    },
+    {
+      "path": "capri-divider-static.png",
+      "bytes": 288,
+      "sha256": "87757396fb750231d5153b837813f459aa9adbfd148976ff0a0f4bd799fece71",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 990,
+      "height": 24,
+      "frames": 1
+    },
+    {
+      "path": "capri-hero-loop.gif",
+      "bytes": 266702,
+      "sha256": "0ca0bc591b925bc8eddd5478604c14be22d171a05d66015b34cc687f8d3e14a9",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 990,
+      "height": 352,
+      "frames": 27,
+      "duration_ms": 6000,
+      "loop": 0,
+      "seamless_first_last": true,
+      "first_frame_poster_mean_rgb_difference": 0.8324
+    },
+    {
+      "path": "capri-hero-static.png",
+      "bytes": 36326,
+      "sha256": "69abaa1090b27ca554e38d2a810aecbbb78ebeff4734001d5d9213b27c6df873",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 990,
+      "height": 352,
+      "frames": 1
+    },
+    {
+      "path": "capri-hero.svg",
+      "bytes": 3182,
+      "sha256": "ee35749fd37754eed0c18ce8c1c7ec6f4ab463fd95db486c7c5e14134bf3f394",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending"
+    },
+    {
+      "path": "capri-social-1280x640.png",
+      "bytes": 54830,
+      "sha256": "d62dbb564b1e5f8694e93a7933e2b68d6f1c94b3faac2a41bb38567cf7f73340",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 1280,
+      "height": 640,
+      "frames": 1
+    },
+    {
+      "path": "workflow-loop.gif",
+      "bytes": 10334,
+      "sha256": "cdaebd82f3b7c33637e009c9af6a2f20550323fe8543e3e9a49f1e6233105275",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 990,
+      "height": 240,
+      "frames": 14,
+      "duration_ms": 6000,
+      "loop": 0,
+      "seamless_first_last": true,
+      "first_frame_poster_mean_rgb_difference": 0.0782
+    },
+    {
+      "path": "workflow-static.png",
+      "bytes": 12727,
+      "sha256": "0f0d7c0ad4be0a338c451ead22442e7e6ffa48cedaaf6e14552d013ff496d2ba",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending",
+      "width": 990,
+      "height": 240,
+      "frames": 1
+    },
+    {
+      "path": "workflow.svg",
+      "bytes": 1788,
+      "sha256": "82b56b91f8ad6e9704aa419229c8653e4b13963745da18f358c4c2f77a929a8a",
+      "source": "Original authored vector/motion code; no external media input",
+      "license": "Owner license selection pending"
+    }
+  ]
+}

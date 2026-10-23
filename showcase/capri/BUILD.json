@@ -1,0 +1,79 @@
+{
+  "assets": [
+    {
+      "path": "capri-divider-loop.gif",
+      "bytes": 2160,
+      "sha256": "c526c5e0cd9d195ea26a6a8c24e10ed80d10b53dc43f685b67af32fddc237c5e",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "capri-divider-static.png",
+      "bytes": 288,
+      "sha256": "87757396fb750231d5153b837813f459aa9adbfd148976ff0a0f4bd799fece71",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "capri-hero-loop.gif",
+      "bytes": 266702,
+      "sha256": "0ca0bc591b925bc8eddd5478604c14be22d171a05d66015b34cc687f8d3e14a9",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "capri-hero-static.png",
+      "bytes": 36326,
+      "sha256": "69abaa1090b27ca554e38d2a810aecbbb78ebeff4734001d5d9213b27c6df873",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "capri-hero.svg",
+      "bytes": 3182,
+      "sha256": "ee35749fd37754eed0c18ce8c1c7ec6f4ab463fd95db486c7c5e14134bf3f394",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "capri-social-1280x640.png",
+      "bytes": 54830,
+      "sha256": "d62dbb564b1e5f8694e93a7933e2b68d6f1c94b3faac2a41bb38567cf7f73340",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "workflow-loop.gif",
+      "bytes": 10334,
+      "sha256": "cdaebd82f3b7c33637e009c9af6a2f20550323fe8543e3e9a49f1e6233105275",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "workflow-static.png",
+      "bytes": 12727,
+      "sha256": "0f0d7c0ad4be0a338c451ead22442e7e6ffa48cedaaf6e14552d013ff496d2ba",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "path": "workflow.svg",
+      "bytes": 1788,
+      "sha256": "82b56b91f8ad6e9704aa419229c8653e4b13963745da18f358c4c2f77a929a8a",
+      "source": "ORIGINAL_CODE_AUTHORED_GEOMETRY_NO_THIRD_PARTY_CHARACTER_ART",
+      "status": "AUTHORED_PRESENTATION_HUMAN_VISUAL_REVIEW_PENDING"
+    }
+  ],
+  "model_image_generation": false,
+  "external_media_inputs": [],
+  "pillow_version": "12.3.0",
+  "footer_font": "System Noto Sans Mono; font software not bundled",
+  "font_sha256": "65b5e2b2c4a1fba9ae8be1f026cb35b03dcb8886d9b2a4147054fde12f7e767d",
+  "reproducibility": "Same script, Pillow version and font bytes; SVG text also depends on viewer monospace font",
+  "source_frame_delays_ms": [
+    60,
+    70,
+    70
+  ],
+  "human_continuous_motion_review": "PENDING"
+}
