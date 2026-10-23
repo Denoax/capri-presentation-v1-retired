@@ -6,7 +6,7 @@ Snapshot date: **23 October 2026**. This is CAPRI's public development preview, 
 | --- | --- |
 | Source | Exported from implementation commit `6a6c3ee4caea0225952d0f3066c94849b36a6f67`; all inherited executable source, tests, fixtures, config and dependency files are preserved. [Source record](SOURCE.md). |
 | Offline controls | The inherited [evaluation record](../EVALUATION.md) reports 228 checks on a predecessor source identity and a separate no-network/no-auth collector. Those are inherited results, not fresh tests of this presentation commit. |
-| CI | [Actual workflow runs](https://github.com/Denoax/capri/actions/workflows/tests.yml) are authoritative for this repository. No passing badge or success claim is inferred from a workflow file. |
+| CI | Initial publication [run 39948553073](https://github.com/Denoax/capri/actions/runs/39948553073) **failed** its required collector namespace probe on `ubuntu-latest`: `bwrap: loopback: Failed RTM_NEWADDR: Operation not permitted`. Dependency installation passed; the full suite was skipped after the failed prerequisite. [Actual runs](https://github.com/Denoax/capri/actions/workflows/tests.yml) remain authoritative. No check was weakened. |
 | Native lifecycle | Current-source live selector/profile negatives, end-to-end stage/restart/report traces, recovery and tmux reconnection qualification remain pending at the export cutoff. |
 | Comparison | The frozen eight-trial baseline/managed comparison is not supplied here. No retention, speed or superiority result is claimed. |
 | Context | Exact active occupancy can remain UNKNOWN. Recent-request footprint and policy headroom are measurements/estimates with different meanings. Thresholds are provisional. |
